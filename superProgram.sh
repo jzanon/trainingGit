@@ -9,3 +9,4 @@ echo $STRING
 # Useless comment 15
 # Useless comment 16
 # Useless comment 17
+# Useless comment 18
