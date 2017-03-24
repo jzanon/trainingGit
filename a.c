@@ -3,5 +3,6 @@
 
 void F1(void)
 {
+	printf("Hello\n");
 	return
 }
