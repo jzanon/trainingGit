@@ -1,0 +1,6 @@
+Creation du fichier common
+Ajout du fichier fx
+Alexandre Micali : Modification du fichier commun 1 /* Mise a jour suite a remarque Tony Garcia */
+
+24/03/2017:
+New feature done

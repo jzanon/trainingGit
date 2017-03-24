@@ -1,4 +1,4 @@
-# Support pour les TP de la formation Git
+﻿# Support pour les TP de la formation Git
 
 Le texte suivant servira pour l'edition collaborative.
 
@@ -161,3 +161,7 @@ $$I = \int \rho R^{2} dV$$
 And note that you can backslash-escape any punctuation characters
 which you wish to be displayed literally, ex.: \`foo\`, \*bar\*, etc.
 
+
+
+### 24/03/2017 ###
+New feature xxx done
