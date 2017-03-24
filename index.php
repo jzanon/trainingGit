@@ -1,0 +1,2 @@
+<? phpinfo();? 
+Syntax Error!!!
