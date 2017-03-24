@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Bienvenue sur ce super project 
 #include "a.h"
 
@@ -39,4 +40,8 @@ Hinc ille commotus ut iniusta perferens et indigna praefecti custodiam protector
 Ardeo, mihi credite, Patres conscripti (id quod vosmet de me existimatis et facitis ipsi) incredibili quodam amore patriae, qui me amor et subvenire olim impendentibus periculis maximis cum dimicatione capitis, et rursum, cum omnia tela undique esse intenta in patriam viderem, subire coegit atque excipere unum pro universis. Hic me meus in rem publicam animus pristinus ac perennis cum C. Caesare reducit, reconciliat, restituit in gratiam.
 
 At nunc si ad aliquem bene nummatum tumentemque ideo honestus advena salutatum introieris, primitus tamquam exoptatus suscipieris et interrogatus multa coactusque mentiri, miraberis numquam antea visus summatem virum tenuem te sic enixius observantem, ut paeniteat ob haec bona tamquam praecipua non vidisse ante decennium Romam.
+=======
+// app.c
+// Created by Thibaut
+>>>>>>> 328344b2a858948f880842ee420c4d4f5f93f533
 
